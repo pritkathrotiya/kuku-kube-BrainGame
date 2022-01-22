@@ -20,7 +20,7 @@ function reduceTimer(){
 		document.getElementById('score').innerHTML='Your Score Is '+score;
 		return;
 	};
-	setTimeout(reduceTimer,10000000);
+	setTimeout(reduceTimer,1000);
 }
 
 function create_table(row) {
