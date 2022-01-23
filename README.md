@@ -1,5 +1,5 @@
 # kuku-kube
-This is kuku kube game developed by prit kathrotiya for color blind test. You can play game on desktop and mobile using below link
+This is kuku kube game developed by prit kathrotiya for color blindness test. You can play game on desktop and mobile using below link
 
 pritkathrotiya.gtihub.io/kuku-kube/
 
