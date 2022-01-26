@@ -69,8 +69,10 @@ function reduceButton(){
 	var btn = document.getElementsByTagName('td');
 	for(var i=0 ; i<btn.length; i++){
 		var temp=(100/divider);
+		var temp1=(6/divider);
 		btn[i].style.width=temp+'px';
 		btn[i].style.height=temp+'px';
+		document.getElementById('header').style.marginTop=temp1+'%';
 	}
 }
 
